@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratyush Praveen</h1>
+<h1 align="center">Hi 👋, I'm Pratyush Praveen  [use Light Theme for best results]  </h1>
 <h3 align="center">I am a working professional, currently exploring Full-stack MERN development with JavaScript. Passionate about coding with decent problem-solving skills and the ability to perform well in a team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushp12&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushp12" /> </p>
