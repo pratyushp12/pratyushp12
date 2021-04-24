@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushp12&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushp12" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently exploring **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratyushp12](https://github.com/pratyushp12)
 
